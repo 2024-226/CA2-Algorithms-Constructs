@@ -1,0 +1,48 @@
+First name,Last name,Gender,Email,Salary,Department,Position,Job title,Company
+Kate,Summer,Female,ksummer@SchoolInovators.com,20000.00,IT Development,senior,QA,SchoolInovators
+Ken,Winter,Male,kwinter@SchoolInovators.com,15000.00,IT Development,middle,backend,SchoolInovators
+James,Anderson,Male,janderson@SchoolInovators.com,80000.00,Sales,,Manager,SchoolInovators
+Sarah,Johnson,Female,sjohnson@CodeSolutions.com,3500.50,HR,,Assistant Manager,SchoolInovators
+John,Smith,Male,jsmith@DataVision.com,48000.00,Finance,,Senior Manager,DataVision
+Emily,Brown,Female,ebrown@Infinisoft.com,2700.75,Marketing,middle,Marketing Specialist,DataVision
+Michael,Williams,Male,mwilliams@TeachersUnited.com,5500.30,IT Development,intern,Junior Clerk,TeachersUnited
+Sophia,Taylor,Female,staylor@Netwise.com,4400.20,IT Development,junior,Client Relations Coordinator,TeachersUnited
+David,Wilson,Male,dwilson@TechWorks.com,51000.00,IT Development,senior,Full-stack,TeachersUnited
+Olivia,Martinez,Female,omartinez@SysDevelopers.com,3200.45,Accounting,contract,Junior Bookkeeper,TeachersUnited
+Ethan,Anderson,Male,eanderson@InfoSphere.com,6200.00,Finance,senior,Finance Analyst,InfoSphere
+Mia,Clark,Female,mclark@ByteWare.com,4800.35,Operations,middle,White-collar Worker,KnowledgeSA
+John,Anderson,Male,janderson@SchoolInovators.com,60000.00,Sales,,Manager,SchoolInovators
+Sam,Johnson,Female,sjohnson@SchoolInovators.com,3500.50,HR,,Manager,SchoolInovators
+John,Brown,Male,jbrown@SchoolInovators.com,9000.00,Finance,,Manager,SchoolInovators
+Emma,Brown,Female,ebrown@SchoolInovators.com,2200.75,Marketing,junior,Marketing Specialist,SchoolInovators
+Max,Williams,Male,mwilliams@CodeSolutions.com,5200.30,Technical Support,intern, Clerk,EducSolutions
+Sonya,Taylor,Female,staylor@CodeSolutions.com,4200.20,Customer Service,junior,Client Relations Coordinator,EducSolutions
+Denis,Wilson,Male,dwilson@CodeSolutions.com,61000.00,IT Development,,Manager,EducSolutions
+Olga,Martinez,Female,omartinez@CodeSolutions.com,3300.45,Accounting,contract,Junior Bookkeeper,EducSolutions
+Ed,Anderson,Male,eanderson@InfoSphere.com,6200.00,Finance,senior,Finance Analyst,InfoSphere
+Milla,Clark,Female,mclark@InfoSphere.com,4900.35,Operations,middle,White-collar Worker,InfoSphere
+Sophia,Lopez,Female,slopez@InfoSphere.com,2200.00,Sales,junior,Sales Clerk,InfoSphere
+Benjamin,Hill,Male,bhill@InfoSphere.com,27000.00,Customer Service,,Head Manager,InfoSphere
+Jessica,Lee,Female,jlee@SchoolInovators.com,70000.00,IT Development,,Senior Manager,SchoolInovators
+Daniel,Walker,Male,dfowler@SchoolInovators.com,5300.20,Operations,intern,Office Worker,SchoolInovators
+Eleanor,Harris,Female,eharris@SchoolInovators.com,3100.75,Marketing,contract,Marketing Specialist,SchoolInovators
+Chris,Evans,Male,cevans@CodeSolutions.com,2200.50,Customer Service,intern,Client Relations Coordinator,EducSolutions
+Alex,Turner,Male,aturner@DataVision.com,4800.40,IT Development,middle,Backend Developer,DataVision
+Nina,Holmes,Female,nholmes@TeachersUnited.com,3300.65,Finance,contract,Finance Analyst,TeachersUnited
+Victor,Stewart,Male,vstewart@Infinisoft.com,5500.80,IT Development,senior,Frontend Developer,Infinisoft
+Lucy,Bennett,Female,lbennett@Netwise.com,2700.45,HR,junior,HR Specialist,Netwise
+Oscar,Reed,Male,oreed@SysDevelopers.com,4400.35,Accounting,contract,Bookkeeper,SysDevelopers
+Lana,Parker,Female,lparker@InfoSphere.com,6200.00,Marketing,senior,AI Developer,InfoSphere
+Harry,Cooper,Male,hcooper@ByteWare.com,5100.90,Sales,junior,Clerk,KnowledgeSA
+Isla,Fisher,Female,ifisher@TechWorks.com,4100.60,Operations,middle,White-collar Worker,TechWorks
+Leo,Wright,Male,lwright@DataVision.com,8000.25,IT Development,senior,DevOps,DataVision
+Eva,Mitchell,Female,emitchell@CodeSolutions.com,2500.45,Customer Service,junior,Client Relations Specialist,EducSolutions
+Ryan,Carter,Male,rcarter@TeachersUnited.com,5200.80,Operations,middle,Desk Jockey,TeachersUnited
+Holly,Brooks,Female,hbrooks@InfoSphere.com,2800.35,IT Development,junior,Mobile Developer,InfoSphere
+Daniel,Gray,Male,dgray@SchoolInovators.com,3500.60,Sales,,Team Lead,SchoolInovators
+Layla,Jones,Female,ljones@SysDevelopers.com,1400.50,Finance,junior,Bookkeeper,SysDevelopers
+Sebastian,Morgan,Male,smorgan@Infinisoft.com,2900.40,HR,contract,HR Analyst,Infinisoft
+Elena,Scott,Female,escott@TeachersUnited.com,4600.30,IT Development,senior,Full-stack Developer,TeachersUnited
+Finn,Walker,Male,fwalker@ByteWare.com,2200.45,Customer Service,intern,Support Clerk,KnowledgeSA
+Amelia,King,Female,aking@TechWorks.com,5200.60,Marketing,middle,Marketing Specialist,TechWorks
+
