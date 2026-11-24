@@ -29,8 +29,14 @@ public class SchoolManagement {
             System.out.println("File read successfully.");
             System.out.println("Number of employees: " + employees.size());
             
-            for (Employee employee : employees) {
-                System.out.println(employee.getName());
+            EmployeeMergeSort sorter = new EmployeeMergeSort();
+            
+            sorter.mergeSort(employees); //execute mergeSort class - list of 46 employees
+            
+            System.out.println("First 20 Employees in alphabetical order");
+            
+            for (int i = 0; i <20 && i < employees.size(); i++) { //limits the output to 20 employees
+                System.out.println(employees.get(i).getName());
             }
             
         } catch (IOException e) {

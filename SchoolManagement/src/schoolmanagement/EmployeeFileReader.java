@@ -33,12 +33,7 @@ public class EmployeeFileReader {
             }
             
             String[] data = line.split(",", -1); //separates line at comma and keep empty records.
-            
-            
-            System.out.println("Reading line: " + line);
-            System.out.println("Number of fields: " + data.length);
-            
-            
+                                             
             String name = data[0] + " " + data[1];
             String department = data[5];
             String managerType = data[7];
