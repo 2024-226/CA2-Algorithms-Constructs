@@ -6,6 +6,7 @@ package schoolmanagement;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  *
@@ -38,6 +39,27 @@ public class SchoolManagement {
             for (int i = 0; i <20 && i < employees.size(); i++) { //limits the output to 20 employees
                 System.out.println(employees.get(i).getName());
             }
+            
+            Scanner scanner = new Scanner(System.in); //allows user to input
+            
+            System.out.println("\nEnter the full name of the employee:");
+            
+            String searchName = scanner.nextLine().trim(); //this code read the name that user inserted
+            
+            EmployeeBinarySearch searcher = new EmployeeBinarySearch(); //create and object/searcher that allows access the methods in EmployeeBinarySearch class
+            
+            Employee result = searcher.binarySearch(
+                        employees, searchName, 0, employees.size() - 1); //execute the searching algorithm inside EmployeeBinarySearch class
+            
+                        if (result != null) { //check if the employee was found/result not null - If yes, return name, role and department.
+                            System.out.println("Name: " + result.getName());
+                            System.out.println("Manager Type: " + result.getManagerType());
+                            System.out.println("Department: " + result.getDepartment());
+                            
+                        } else {
+                            System.out.println("Employee not found");
+                            
+                        }
             
         } catch (IOException e) {
             System.out.println("Error reading the file: " + e.getMessage());
