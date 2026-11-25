@@ -65,6 +65,16 @@ public class SchoolManagement {
             
             manager.addEmployee(employees, scanner);
             manager.displayNewEmployees();
+            
+            EmployeeBinaryTree tree = new EmployeeBinaryTree(); //connect my main to output my Binary Tree of Employees
+
+            for (int i = 0; i < 20 && i < employees.size(); i++) {
+                tree.insert(employees.get(i));
+            }
+
+            System.out.println("\nEmployee Binary Tree created.");
+            
+            tree.levelOrderTraversal(); //ensure the FIFO order
                        
             
         } catch (IOException e) {
