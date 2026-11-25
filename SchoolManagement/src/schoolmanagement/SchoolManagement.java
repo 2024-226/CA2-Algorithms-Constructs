@@ -60,6 +60,12 @@ public class SchoolManagement {
                             System.out.println("Employee not found");
                             
                         }
+                        
+            EmployeeManagement manager = new EmployeeManagement();
+            
+            manager.addEmployee(employees, scanner);
+            manager.displayNewEmployees();
+                       
             
         } catch (IOException e) {
             System.out.println("Error reading the file: " + e.getMessage());
